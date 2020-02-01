@@ -1,0 +1,77 @@
+body {
+  background-color: #fff1cf;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  width: 100%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px
+}
+
+h1 {
+  color: #1b262c;
+  padding-left: 10px;
+}
+
+h2, h3, h4, p {
+  color: #015668;
+  padding-left: 10px;
+}
+
+
+.ms {
+  color: #1b262c;
+}
+
+.univ {
+  color: #1b262c;
+}
+
+
+ul, ol {
+  color: #263f44;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.heading {
+  background-color: #ffd369;
+  width: 100%;
+  display: grid;
+  border-spacing: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.contactMe {
+  font-size: 20px;
+  padding-left: 10px;
+  color: #015668;
+}
+
+.mailForm {
+  padding-left: 10px;
+}
+
+.formLabels {
+  color: #015668;
+}
+
+.contactHeading {
+  background-color: #ffd369;
+  width: 100%;
+  border-spacing: 10px;
+  margin: 0;
+  padding: 12px;
+  height: 50px;
+
+}
